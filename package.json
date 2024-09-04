@@ -1,0 +1,15 @@
+{
+  "name": "circular_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mako build"
+  },
+  "keywords": [],
+  "author": "pshu",
+  "license": "ISC",
+  "devDependencies": {
+    "@umijs/mako": "^0.8.7"
+  }
+}

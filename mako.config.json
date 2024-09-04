@@ -1,0 +1,9 @@
+{
+  "experimental": {
+    "webpackSyntaxValidate": [],
+    "requireContext": true,
+    "detectLoop": {
+      "graphviz": true
+    }
+  }
+}
